@@ -1,4 +1,4 @@
-# Paisabazaar Banking Fraud Analysis
+# Credit Score & Risk Assessment — Paisabazaar (Exploratory Data Analysis)
 
 ## Project Type
 Exploratory Data Analysis (EDA)
