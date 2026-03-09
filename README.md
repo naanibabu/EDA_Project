@@ -59,6 +59,9 @@ This project presents an exploratory data analysis (EDA) of Paisabazaar’s cust
 - [`dataset.csv`](dataset.csv): Customer dataset.
 - PNG files: Visualizations used in the notebook.
 
+## 🖼️ Dashboard Screenshots
+![Analysis Dashboard](https://github.com/naanibabu/EDA_Project/blob/main/dashboard.png)
+
 ## Conclusion
 
 This EDA provides actionable insights to help Paisabazaar refine its credit assessment process, reduce financial risk, and deliver better, data-driven recommendations to customers, supporting responsible lending and business growth.
